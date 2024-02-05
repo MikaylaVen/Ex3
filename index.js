@@ -1,4 +1,4 @@
-
+import * as exercises from "./exercises.js";
 //creating array of quotes
 const quotations = [
     "The purpose of our lives is to be happy.-Dalai Lama",
